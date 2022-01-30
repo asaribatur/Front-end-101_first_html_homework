@@ -1,2 +1,2 @@
-# Front-end-101_first_html_homework
+# Front-end 101 first html homework
 patika.dev sitesinde Başlangıç Seviye Frontend Web Development Patikasında yaptığım ilk HTML ödevim
